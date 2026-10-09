@@ -85,3 +85,14 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 ## Exact quotes: first-party site
 60. "Probabilities, not predictions." (benjamincowen.com)
 61. "I try and keep a level head with my discussions and provide you information that is helpful to you as you research different scenarios." (benjamincowen.com)
+
+## Exact quotes: short posts and replies (X 2026-10-08 → 10-09)
+62. "If my critics held themselves to the same standards they hold me, they would have had to fire themselves long ago" (X, 2026-10-09)
+63. "I dream of a world where people don’t hate others just for having an opinion about markets that differs from theirs" (X, 2026-10-09)
+64. "I think in a few years we will look back at this moment and realize how high a real return of 3% truly was" (X, 2026-10-08)
+65. "Yields are likely in the topping process." (X, 2026-10-08)
+66. "The markets always have a way of convincing us that "this time is different."" (X, 2026-10-08)
+67. "It's hard to dunk on "paper hands" when BTC has not even outperformed index funds for so long." (reply, 2026-10-08)
+68. "You shill XRP, a coin that has done nothing for nearly 10 years" (reply, 2026-10-08)
+69. "Not sure why such hostility over a market opinion. You don’t have to follow me or care what I have to say" (reply, 2026-10-09)
+70. "But I was using the macro perspective over the TA perspective why is why I didn’t anticipate the move to $87k" (reply, 2026-10-09)

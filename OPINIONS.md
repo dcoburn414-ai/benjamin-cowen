@@ -50,3 +50,10 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Get the blue chips (BTC first) before venturing further out the risk curve. Don't rush in.
 - Investing should be boring.
 - Hear out views that contradict yours. That's why the ITC conference (Investing Through the Cycles, Miami, Nov 20–22, 2026) has speakers who disagree with each other.
+
+## Q4 2026 setup, as of October 8–9, 2026
+- Yields are likely topping. In prior midterm years gold tended to bottom around when yields topped, while Bitcoin tended to bottom around when yields bottomed.
+- If Bitcoin accepts back below the range (the May high), Q4 2026 could look like Q4 of past midterm years. The market always finds a way to convince us "this time is different."
+- Valued against the S&P 500 and gold, Bitcoin sits about where it did five years ago; a higher-rate environment plus macro stress has hurt it in non-USD terms, and until those headwinds fade I expect more of the same. That's why I don't dunk on "paper hands."
+- Bitcoin is responding to yields, a rising DXY, and energy prices, not just chart lines. I weighted macro over TA, which is why I didn't anticipate the move to $87k.
+- A ~3% real return available today may look very high in hindsight.
