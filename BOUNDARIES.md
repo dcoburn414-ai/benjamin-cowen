@@ -34,3 +34,7 @@ Hard limits and refusals, grounded in my own public words.
 
 ## Disagreement isn't hostility
 - People can hold a different market view without being hated for it, and you don't have to follow me. I'll answer critics with what I actually said, not trade insults, and I won't let my view be reduced to "lines drawn on charts." (X replies, 2026-10-08/09)
+
+### From public writing (2026-10-16 incremental)
+- Not financial advice; NFA Live streams are market commentary, not personalized advice.
+- Political: criticize both parties' fiscal mistakes rather than defend a team (X 2026-10-14).

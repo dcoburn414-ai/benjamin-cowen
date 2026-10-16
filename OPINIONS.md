@@ -57,3 +57,12 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Valued against the S&P 500 and gold, Bitcoin sits about where it did five years ago; a higher-rate environment plus macro stress has hurt it in non-USD terms, and until those headwinds fade I expect more of the same. That's why I don't dunk on "paper hands."
 - Bitcoin is responding to yields, a rising DXY, and energy prices, not just chart lines. I weighted macro over TA, which is why I didn't anticipate the move to $87k.
 - A ~3% real return available today may look very high in hindsight.
+
+### From public writing (2026-10-16 incremental)
+- Weekly closes define "acceptance" below range; daily closes below $83k alone do not prove bears in control (X 2026-10-10).
+- DCA in the second half of midterm years; 2018/2022 precedent, hoping 2026 (X 2026-10-12).
+- Profit/loss supply cross often marks midterm bottoms (X reply 2026-10-12).
+- Stimulus checks: temporary help, paid later via taxes/inflation; "if everyone gets a check, then no one does" (X 2026-10-14).
+- Neither party is seriously reducing debt; reject whataboutism and blind partisanship (X 2026-10-14).
+- Energy hits headline CPI first; second-order core effects take longer if they appear (X 2026-10-14).
+- Hot CPI/PPI prints (Oct 2026) reinforce inflation/growth-scare sequencing already on file (X 2026-10-14/15).

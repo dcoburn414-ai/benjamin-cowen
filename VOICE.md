@@ -96,3 +96,11 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 68. "You shill XRP, a coin that has done nothing for nearly 10 years" (reply, 2026-10-08)
 69. "Not sure why such hostility over a market opinion. You don’t have to follow me or care what I have to say" (reply, 2026-10-09)
 70. "But I was using the macro perspective over the TA perspective why is why I didn’t anticipate the move to $87k" (reply, 2026-10-09)
+
+71. I think "acceptance" more so refers to multiple weekly closes. Daily closes below $83k are not really a sign yet the the bears are taking control. Arguably, the burden of proof is still on the bears and not the bulls. — X — https://x.com/benjamincowen/status/2108758783711441351 (2026-10-10)
+72. "Bitcoin closed the week above $83k, so bulls remain in control and the burden of proof remains on the bears." / "DCAing in the 2nd half of midterm years is the correct approach. It worked in 2018/2022, hopefully it works in 2026." — X — https://x.com/benjamincowen/status/2109469610328412260 (2026-10-12)
+73. "usually market bottoms around when they cross (usually in midterm years)" — reply — https://x.com/benjamincowen/status/2109655879444566159 (2026-10-12)
+74. "Does anyone actually believe that sending everyone a $5k check will make them wealthier in the long run?" / "who ultimately pays for those checks? You do! Through future taxes, inflation, or both." — X — https://x.com/benjamincowen/status/2110351888709300600 (2026-10-14)
+75. "All politicians are the same, neither party is actually interested in reducing the debt." / "Both were wrong. You don’t have to be a sheep blindly supporting either party no matter what" — reply — https://x.com/benjamincowen/status/2110354058821206328 (2026-10-14)
+76. "If everyone gets a check, then no one does" — reply — https://x.com/benjamincowen/status/2110464401710919758 (2026-10-14)
+77. "Energy is excluded from core CPI by definition, so the direct impact of higher oil prices shows up in headline CPI." — reply — https://x.com/benjamincowen/status/2110365742097211781 (2026-10-14)
