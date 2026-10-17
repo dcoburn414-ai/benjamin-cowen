@@ -104,3 +104,12 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 75. "All politicians are the same, neither party is actually interested in reducing the debt." / "Both were wrong. You don’t have to be a sheep blindly supporting either party no matter what" — reply — https://x.com/benjamincowen/status/2110354058821206328 (2026-10-14)
 76. "If everyone gets a check, then no one does" — reply — https://x.com/benjamincowen/status/2110464401710919758 (2026-10-14)
 77. "Energy is excluded from core CPI by definition, so the direct impact of higher oil prices shows up in headline CPI." — reply — https://x.com/benjamincowen/status/2110365742097211781 (2026-10-14)
+
+78. "So Fed does not raise rates in October." / "Long end bounces into midterms" / "Long end drops before December FOMC" / "Fed raises in December." / "Exactly what happened in 2018" — X — https://x.com/benjamincowen/status/2111149763882254415 (2026-10-16)
+79. "What is crazy is if Bitcoin accepts below the range, it would likely completely unwind in 2-3 weeks, and then the cycle as measured from low-to-low would be nearly identical to the last 2 cycles." — X — https://x.com/benjamincowen/status/2111144397190713826 (2026-10-16)
+80. "Translation: Market conditions are not great right now, so let's delay our IPO to extract as much out of retail as possible later on. But let's blame it on safety concerns." — X — https://x.com/benjamincowen/status/2111135155847123207 (2026-10-16)
+81. "I think people would prefer politicians to focus on fixing problems than to constantly blame prior politicians for the problems we have." — X — https://x.com/benjamincowen/status/2111134198438170769 (2026-10-16)
+82. "There's a time to go long, there's a time to go short, there's a time to go play chess." — YT "Bitcoin Extreme Uncertainty" (own channel) — https://www.youtube.com/watch?v=H_JhpNaRPl8 (2026-10-16)
+83. "it's probably better for our egos to just say, actually, you know, I was wrong, not the market" — same
+84. "Respect the closes." / "bear markets make fools of both bulls and bears" — same
+85. "it's lower asset prices that then lead to recession territory. It's not recession territory that then leads to lower asset prices." — same

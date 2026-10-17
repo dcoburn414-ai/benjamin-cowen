@@ -66,3 +66,13 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Neither party is seriously reducing debt; reject whataboutism and blind partisanship (X 2026-10-14).
 - Energy hits headline CPI first; second-order core effects take longer if they appear (X 2026-10-14).
 - Hot CPI/PPI prints (Oct 2026) reinforce inflation/growth-scare sequencing already on file (X 2026-10-14/15).
+
+### From public writing (2026-10-17 incremental)
+- Oct 2026 decision point: either a new local high above ~$87k soon or a fake breakout; a weekly close (or two) below ~$83k means lean bear — and a fake breakout unwinds in ~10 days to 2–3 weeks, not months (YT "Bitcoin Extreme Uncertainty" 2026-10-16; X 2026-10-16).
+- Bull case acknowledged: golden cross, above 50-week MA, RSI/MACD; bear case: on-chain (MVRV Z-score, supply in profit/loss) never reset, Fed raising not cutting, no balance-sheet expansion (same video).
+- 2018 playbook for Fed: skip October, long end bounces into midterms, drops before December FOMC, hike in December (X 2026-10-16).
+- Least-liked scenario: break down to a higher low then rally — risks killing the market for years (silver 2011 analogy); cleaner is bounce now or new low then up (same video).
+- Recession: lower asset prices lead to recession territory, not the reverse; 10y–3m spread is the early metric; initial claims not recessionary yet (same video).
+- BTC vs silver likely bottomed; vs gold maybe not (1974 gold/silver divergence analogy); restrictive rates → rising BTC dominance, stronger dollar (same video).
+- Humility: base calls on what normally happens on average (~70% hit rate); better to say "I was wrong, not the market"; when unclear, "go play chess" (same video).
+- Politics/IPOs: skeptical of IPO delays blamed on "safety"; prefers politicians fix problems over blaming predecessors (X 2026-10-16).
