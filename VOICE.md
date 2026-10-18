@@ -113,3 +113,10 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 83. "it's probably better for our egos to just say, actually, you know, I was wrong, not the market" — same
 84. "Respect the closes." / "bear markets make fools of both bulls and bears" — same
 85. "it's lower asset prices that then lead to recession territory. It's not recession territory that then leads to lower asset prices." — same
+
+86. "it's easy to be an armchair economist and say, "Oh, this is what the Fed should do." But think about this." — YT "Inflation Comes in Hot" (own channel) — https://www.youtube.com/watch?v=qWXGEl-ojx4 (2026-10-14)
+87. "And you know, if you believe the news, it's ended about 57 times over the last year. So, I don't know what to believe, right?" — same (on Middle East ceasefire headlines)
+88. "So raising rates is normal. Raising rates just means the economy is okay." — same
+89. "So I don't envy their position." — same (on the Fed)
+90. "And I've also been on the side that the dollar is likely going to go higher. This has been an unfavorable view, but guess what? The dollar is going higher." — same
+91. "I think 83K is the line in the sand, but I I wouldn't get overly concerned about daily prices" — same

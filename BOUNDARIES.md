@@ -41,3 +41,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-17 incremental)
 - Fed-hike odds (85%), cycle day counts, and scenario probabilities are his market reads at the time, not forecasts to restate as fact; not financial advice.
+
+### From public writing (2026-10-18 incremental)
+- CPI, yield, and rate-hike-odds figures in the 2026-10-14 video are his reads at that time, not current data; not financial advice. ITC Premium/conference plugs are not opinions.

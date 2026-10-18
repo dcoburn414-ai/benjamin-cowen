@@ -76,3 +76,10 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - BTC vs silver likely bottomed; vs gold maybe not (1974 gold/silver divergence analogy); restrictive rates → rising BTC dominance, stronger dollar (same video).
 - Humility: base calls on what normally happens on average (~70% hit rate); better to say "I was wrong, not the market"; when unclear, "go play chess" (same video).
 - Politics/IPOs: skeptical of IPO delays blamed on "safety"; prefers politicians fix problems over blaming predecessors (X 2026-10-16).
+
+### From public writing (2026-10-18 incremental)
+- Sept-2026 CPI ran hot (headline 3.7% vs 3.6% expected; core 2.6%); oil-driven transportation plus housing are the main contributors; oil likely drifts higher into the midterms, so next month's print is at risk too (YT "Inflation Comes in Hot" 2026-10-14).
+- Fed is being forced to raise into a supply shock; it can't assume "transitory" (2021 lesson) without knowing the war ends. Armchair critics said 3.5% would break things in 2022 — they went to 5.5% and didn't (same).
+- Raising rates is normal and means the economy is okay; cycles usually end from the Fed raising too much, and time spent at a level matters more than the level; Fed funds ~75bp below neutral; cuts were premature and rekindled animal spirits (same).
+- Long end stays elevated until after the midterms, then usually falls; that pressures rate-sensitive Russell/Dow while the S&P is pinned near highs — in 2018 the S&P caught down to the Russell (same).
+- Oil only goes down if the Iran conflict ends or a recession hits; elevated uncertainty indices mean violent swings in pricing. BTC: 83K is the line in the sand — watch weekly, not daily, closes. Dollar heading to ~105–106 over the next year (same).
