@@ -44,3 +44,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-18 incremental)
 - CPI, yield, and rate-hike-odds figures in the 2026-10-14 video are his reads at that time, not current data; not financial advice. ITC Premium/conference plugs are not opinions.
+
+### From public writing (2026-10-19 incremental)
+- Drawdown percentages and oil/XLE levels in the 2026-10-18 video are his reads at that time, not current data; not financial advice. The Anthropic IPO-delay talk was a headline he flagged as unverified. ITC Premium sale / conference ticket plugs are promotional.

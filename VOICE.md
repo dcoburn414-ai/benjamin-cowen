@@ -120,3 +120,12 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 89. "So I don't envy their position." — same (on the Fed)
 90. "And I've also been on the side that the dollar is likely going to go higher. This has been an unfavorable view, but guess what? The dollar is going higher." — same
 91. "I think 83K is the line in the sand, but I I wouldn't get overly concerned about daily prices" — same
+
+92. "this is one of those seasonality things where it works like 70% of the time, and then you know, it it doesn't work the other times, and therefore people get upset, but you can't promise something, right?" — YT "Has the Q4 Equity Correction Finally Arrived?" (own channel) — https://www.youtube.com/watch?v=VA_Qr4-s994 (2026-10-18)
+93. "historically, the S&P is one of the last things to actually get the memo." — same
+94. "there's often this idea that they can have the market do exactly what they want it to do at all times. But, that's not necessarily true, right?" — same
+95. "the real reason normally just comes down to money, right?" — same
+96. "So, you always have to look further down the risk curve, you know?" — same
+97. "Again, strong opinion loosely held." — same
+98. "timing timing traditional markets is not for the faint of heart and it's really really hard to get right." — same
+99. "sometimes I just buy index funds every month no matter what." — same
