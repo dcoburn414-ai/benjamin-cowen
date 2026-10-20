@@ -47,3 +47,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-19 incremental)
 - Drawdown percentages and oil/XLE levels in the 2026-10-18 video are his reads at that time, not current data; not financial advice. The Anthropic IPO-delay talk was a headline he flagged as unverified. ITC Premium sale / conference ticket plugs are promotional.
+
+### From public writing (2026-10-20 incremental)
+- Rate-hike odds (~80-something% hold / ~16% hike for October 2026) and the 2-year yield levels are as of 2026-10-19, not current. The Into the Cryptoverse premium sale and Miami conference plugs are promotion, not analysis.

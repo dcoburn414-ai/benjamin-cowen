@@ -129,3 +129,11 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 97. "Again, strong opinion loosely held." — same
 98. "timing timing traditional markets is not for the faint of heart and it's really really hard to get right." — same
 99. "sometimes I just buy index funds every month no matter what." — same
+
+100. "to some degree, this does in fact feel like deja vu from 2018." — YT "What will the Federal Reserve Do Next?" (own channel) — https://www.youtube.com/watch?v=WAMu9tSOyyY (2026-10-19)
+101. "Even the Federal Reserve often gets it wrong." — same
+102. "So, it's clear that the market does not always know what's going to happen. It often does not." — same
+103. "to a large extent, the Federal Reserve just is tracking the 2-year yield, right?" — same
+104. "it might be clear as mud, but hopefully some of you guys are are, you know, picking up what I'm throwing down, right?" — same
+105. "history doesn't always repeat itself, but it certainly does rhyme." — same
+106. "My guess is the Fed's not going to raise rates in October, which is coming up in about 9 days." — same
