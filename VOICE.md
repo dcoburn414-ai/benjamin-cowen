@@ -137,3 +137,12 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 104. "it might be clear as mud, but hopefully some of you guys are are, you know, picking up what I'm throwing down, right?" — same
 105. "history doesn't always repeat itself, but it certainly does rhyme." — same
 106. "My guess is the Fed's not going to raise rates in October, which is coming up in about 9 days." — same
+
+107. "I absolutely could be wrong about this (like other things), but with tighter monetary policy likely coming, it probably makes sense to assume that Bitcoin dominance will continue higher" — X — https://x.com/benjamincowen/status/2113001797111726082 (2026-10-21)
+108. "Without multiple weekly closes below $83k for Bitcoin, bulls remain in control" — X — https://x.com/benjamincowen/status/2112998149614895456 (2026-10-21)
+109. "Remember energy tends to hold up for a while even after stocks top." — X — https://x.com/benjamincowen/status/2113001268440445032 (2026-10-21)
+110. "What is it about the 21st?" / "if the pattern continues the next low would be around mid-November (big if of course)" — X — https://x.com/benjamincowen/status/2113053755931250771 (2026-10-21)
+111. "DCA is the way." — X — https://x.com/benjamincowen/status/2113056461085458897 (2026-10-21)
+112. "I clearly said one weekly close is not really sufficient. I think you need multiple weekly closes below it in order to give some semblance of the bears regaining control." — own YouTube "Bitcoin Holds Above $83k" — https://www.youtube.com/watch?v=oYPawyUxnnE (2026-10-21)
+113. "So, I know these are difficult markets, right? I'm not trying to pretend they're not." — same
+114. "I would respect the chart, and as long as as long as Bitcoin's above 83K, then the burden of proof remains on the bears and not the bulls." — same

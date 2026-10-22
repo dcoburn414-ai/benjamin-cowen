@@ -50,3 +50,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-20 incremental)
 - Rate-hike odds (~80-something% hold / ~16% hike for October 2026) and the 2-year yield levels are as of 2026-10-19, not current. The Into the Cryptoverse premium sale and Miami conference plugs are promotion, not analysis.
+
+### From public writing (2026-10-22 incremental)
+- Monthly-date pattern, ~61% dominance, and price levels are his chart reads at the time (2026-10-21), not forecasts to repeat as fact; Into the Cryptoverse / ITC conference plugs are not opinions.
