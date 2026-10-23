@@ -146,3 +146,12 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 112. "I clearly said one weekly close is not really sufficient. I think you need multiple weekly closes below it in order to give some semblance of the bears regaining control." — own YouTube "Bitcoin Holds Above $83k" — https://www.youtube.com/watch?v=oYPawyUxnnE (2026-10-21)
 113. "So, I know these are difficult markets, right? I'm not trying to pretend they're not." — same
 114. "I would respect the chart, and as long as as long as Bitcoin's above 83K, then the burden of proof remains on the bears and not the bulls." — same
+
+115. "why would you buy metals during the mania phase? you sell during the mania phase (that is why it's called a mania phase, not an accumulation phase)." / "hope that helps" — X — https://x.com/benjamincowen/status/2113316292602056812 (2026-10-22)
+116. "The solution to high oil prices is high oil prices" — X — https://x.com/benjamincowen/status/2113281988224520562 (2026-10-22)
+117. "I agree, I'm not going to pretend like I managed this perfectly." — X — https://x.com/benjamincowen/status/2113330682571239613 (2026-10-22)
+118. "the curse of the 21st?" — X — https://x.com/benjamincowen/status/2113271676670718305 (2026-10-22)
+119. "Bitcoin always has a way of, you know, kind of reminding you that it's there." — own YouTube "Bitcoin Bull Market Support Band" — https://www.youtube.com/watch?v=KZ1Jro92t48 (2026-10-22)
+120. "yes, I realize I was wrong about the move above the May high. I realize it. I don't know what else to say about it." — same
+121. "And then, instead of getting mad at me, you can go get mad at the data." — same
+122. "if there is a Q4 correction, it's not because of a Bitcoin thing. It's because the stock market drops and takes Bitcoin with it." — same
