@@ -155,3 +155,12 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 120. "yes, I realize I was wrong about the move above the May high. I realize it. I don't know what else to say about it." — same
 121. "And then, instead of getting mad at me, you can go get mad at the data." — same
 122. "if there is a Q4 correction, it's not because of a Bitcoin thing. It's because the stock market drops and takes Bitcoin with it." — same
+
+123. "Is anyone ever here anymore?" / "Feels like the few of us that remain are just shouting into the void" — X — https://x.com/benjamincowen/status/2113806221970964585 (2026-10-24)
+124. "Literally everyone on this platform gets things wrong." — X — https://x.com/benjamincowen/status/2113797511899209744 (2026-10-24)
+125. "No politician on the left or the right should be launching shitcoins." — X — https://x.com/benjamincowen/status/2113797929148502061 (2026-10-24)
+126. "Burden of proof is starting to shift." — X — https://x.com/benjamincowen/status/2113795997910364561 (2026-10-24)
+127. "So try to understand there's a difference between being right and making money." — own YouTube "Bitcoin: A Precarious Position" — https://www.youtube.com/watch?v=eN6dpreDIk4 (2026-10-24)
+128. "I feel like everyone has a plan until Bitcoin drops 5%and then everyone's like, oh wait, what's my plan now?" — same
+129. "just because we didn't go to the top doesn't mean we don't have to go to the lows." — same
+130. "I understand that a lot of people get upset when I express these views. But, I don't think you should be mad at me." — same

@@ -109,3 +109,11 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Corrections usually start well before midterms (2014, 2018, 2022; in 2 of 3 the correction was over before the midterms). In midterm-year Q4s, BTC usually drops because the stock market drops and takes it along, not because of a Bitcoin-specific problem (X + YT 2026-10-22).
 - Oil: efforts to keep WTI pinned below $100 will struggle; only an end to the war in Iran or a recession brings oil durably down — "the solution to high oil prices is high oil prices"; Brent approaching a new yearly high adds risk-asset volatility (X 2026-10-22).
 - Metals: you sell during the mania phase, not buy; he bought palladium around mid-2025, and admits he didn't manage the BTC re-entry perfectly (bought back in July, less than he'd have liked) (X 2026-10-22).
+
+### From public writing (2026-10-24 incremental)
+- Bear-case checklist for Q4 (void if BTC gets and holds back above $83k): second weekly close below $83k → fake-out confirmed → Fed doesn't raise (Oct 28) → hot PCE (Oct 29) → oil spikes on the Iran war (~$120) → long end up (10Y back to ~5.3%) → stocks drop → BTC drops in Q4 of the midterm year → long end tops shortly after the midterms (X + YT 2026-10-24).
+- Bitcoin is in a 'precarious position': first daily close below the 50-day; S&P, Nasdaq, Dow, TOTAL2/3 are at the bull market support band and BTC likely heads there too. Fake-outs unwind fast (2015, 2020); when people say BTC is 'holding up well' it usually drops after (YT 2026-10-24).
+- Equity correction is here: Russell ~11% and Nasdaq ~8% off, S&P lagging; energy (XLE new highs, oil rising daily) usually stays strong well after stocks; the dollar rallied as he called (X + YT 2026-10-24).
+- BTC dominance excluding stables keeps printing higher lows and will likely keep rising (X 2026-10-24).
+- Process over prediction: DCA through the second half of the midterm year has worked every cycle; have a plan and stick to it; being right and making money are different things (YT 2026-10-24).
+- Calls out both political sides: no politician on the left or right should launch memecoins; tells people to focus on their own calls instead of insulting others' (X replies 2026-10-24).
