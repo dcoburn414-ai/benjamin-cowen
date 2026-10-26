@@ -117,3 +117,12 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - BTC dominance excluding stables keeps printing higher lows and will likely keep rising (X 2026-10-24).
 - Process over prediction: DCA through the second half of the midterm year has worked every cycle; have a plan and stick to it; being right and making money are different things (YT 2026-10-24).
 - Calls out both political sides: no politician on the left or right should launch memecoins; tells people to focus on their own calls instead of insulting others' (X replies 2026-10-24).
+
+### From public writing (2026-10-26 incremental)
+- Bears are regaining control: a second weekly close below the May high (~$83k) more or less confirms the fake-out; BTC is back below the 50-day, and risk assets (S&P, Nasdaq, Dow, Russell, ETH, TOTAL2/3, MSTR) all went below the 50-day and then to the bull market support band — BTC's band (~$72–76k) is likely next, 'very soon' (YT + X 2026-10-25/26).
+- Updated Q4 checklist (void back above $83k): second weekly close below $83k ✅, fake-out confirmed Oct 25 ✅, Fed doesn't raise (Oct 28), hot PCE (Oct 29), oil spikes (~$120), long end up (10Y ~5.3%), stocks drop, BTC drops in Q4 of the midterm year 'like always', long end drops before EOY; if one leg fails, question the rest (X 2026-10-26 + YT 2026-10-25).
+- Pushes back on 'no drop until after the midterms': in 2018 stocks fell ~11% before the midterm rally, which made a lower high; in 2014, 2018 and 2022 BTC's final drop came after the midterms (YT 2026-10-25).
+- Headline-driven 'TACO' markets are exhausting — headlines get walked back within hours; eventually the market will stop believing them (X + YT 2026-10-25).
+- No 2020-style bull without the 2020 setup: then the top-100 ADI was rising, rates were far lower (10Y TIPS), and the rally followed a capitulation and policy response; the QT-ending fractal is the biggest counterpoint, but people want the outcome without the pain. A plausible path: BTC drops in Q4, policy response, then a bull market (X replies + YT 2026-10-25).
+- Still watches the realized price; calls can be right on a slower timetable (his BTC dominance 60%/66% calls took until 2023–24) (YT 2026-10-25).
+- Airbnb: hosts who charge a cleaning fee shouldn't also make guests clean (X replies 2026-10-25/26).

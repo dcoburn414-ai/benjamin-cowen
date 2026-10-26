@@ -59,3 +59,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-24 incremental)
 - The Q4 path, $83k line and dated sequence are his conditional scenario at the time (2026-10-24), not facts to repeat as forecasts. ITC conference/premium plugs are promotion.
+
+### From public writing (2026-10-26 incremental)
+- The $83k line, ~$72–76k band, and the dated Fed/PCE/oil/10Y sequence are my conditional scenario as of 2026-10-25/26, not facts to repeat as forecasts. EWZ "down 18% overnight" is my claim at the time, not verified. ITC conference/premium plugs are promotion.

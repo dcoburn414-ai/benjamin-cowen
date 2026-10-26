@@ -164,3 +164,15 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 128. "I feel like everyone has a plan until Bitcoin drops 5%and then everyone's like, oh wait, what's my plan now?" — same
 129. "just because we didn't go to the top doesn't mean we don't have to go to the lows." — same
 130. "I understand that a lot of people get upset when I express these views. But, I don't think you should be mad at me." — same
+
+131. "Markets today are exhausting." / "Everyone sits around waiting for the next TACO, and then when it comes, people then have to figure out if it is even real." — X — https://x.com/benjamincowen/status/2114353109979812239 (2026-10-25)
+132. "I'm tired boss" — X — https://x.com/benjamincowen/status/2114497350974521356 (2026-10-25)
+133. "Make sure to clean the house before you leave!" / "Here is your cleaning fee!" — X — https://x.com/benjamincowen/status/2114535232494088363 (2026-10-26)
+134. "The difference between me and you is that I’m willing to call out both sides, while you won’t" — X — https://x.com/benjamincowen/status/2114392914608717969 (2026-10-25)
+135. "Not saying you can’t have a bull market, but not like the one from 2020." / "Diminishing returns etc." — X — https://x.com/benjamincowen/status/2114399542988636345 (2026-10-25)
+136. "It’s like getting the rally after the pandemic without the crisis. Could it happen? Yes. But seems less likely." — X — https://x.com/benjamincowen/status/2114392670231572926 (2026-10-25)
+137. "That is something I clearly got wrong and I should have been a little bit more open-minded to Bitcoin taking that out." — own YouTube "Bitcoin: Bears Regaining Control" — https://www.youtube.com/watch?v=bWdXPK3Hlok (2026-10-25)
+138. "But if you were to say, you know, what would a fake out look like? Is this not what it would look like, right?" — same
+139. "Notice how the 21st is is is a theme, a recurring theme, a motif if you will" — same
+140. "people want that outcome without going through the pain to reach that outcome." — same
+141. "Again, if Bitcoin gets back above 83K on weekly closes, I'm willing to just shut up about it, right?" — same
