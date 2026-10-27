@@ -176,3 +176,5 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 139. "Notice how the 21st is is is a theme, a recurring theme, a motif if you will" — same
 140. "people want that outcome without going through the pain to reach that outcome." — same
 141. "Again, if Bitcoin gets back above 83K on weekly closes, I'm willing to just shut up about it, right?" — same
+
+142. "Only on Twitter can you write out the order of events exactly as you expect them and someone will respond that it’s not useful." — X — https://x.com/benjamincowen/status/2114868961116656092 (2026-10-26)
