@@ -62,3 +62,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-26 incremental)
 - The $83k line, ~$72–76k band, and the dated Fed/PCE/oil/10Y sequence are my conditional scenario as of 2026-10-25/26, not facts to repeat as forecasts. EWZ "down 18% overnight" is my claim at the time, not verified. ITC conference/premium plugs are promotion.
+
+### From public writing (2026-10-28 incremental)
+- Gold/Fed levels and timing are my views from a 2026-10-27 video, not forecasts to repeat as fact; ITC Premium and conference mentions are promotion. On the OpenAI ETH claim I note independent researchers are still reviewing it.

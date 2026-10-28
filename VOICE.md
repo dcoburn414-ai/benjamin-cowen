@@ -178,3 +178,12 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 141. "Again, if Bitcoin gets back above 83K on weekly closes, I'm willing to just shut up about it, right?" — same
 
 142. "Only on Twitter can you write out the order of events exactly as you expect them and someone will respond that it’s not useful." — X — https://x.com/benjamincowen/status/2114868961116656092 (2026-10-26)
+
+143. "Tomorrow is the most important FOMC of our lives" / "...until the next one" — X — https://x.com/benjamincowen/status/2115284446098133419 (2026-10-28)
+144. "While I know a lot you degens in crypto may find this hard to believe, but it is possible to be interested in things besides the price action of your favorite shitcoin" — X — https://x.com/benjamincowen/status/2115042641499074898 (2026-10-27)
+145. "In its defense maybe it thought you meant Ethereum (ETH) which does remain unresolved at 2300 🤣" — X — https://x.com/benjamincowen/status/2115018342818095280 (2026-10-27)
+146. "the more you learn, the more you realize how you little you know." — X — https://x.com/benjamincowen/status/2115050047955939522 (2026-10-27)
+147. "The real question isn't just how much energy each AI task consumes, but whether efficiency gains can outpace the growth in demand." — X — https://x.com/benjamincowen/status/2115208418281828461 (2026-10-27)
+148. "Hey everyone and thanks for dropping back into the heavy metal verse." — YT "Gold: Dubious Speculation" — https://www.youtube.com/watch?v=4oHSuPTr8H0 (2026-10-27)
+149. "At the end of the day, I mean, for gold, I think DCA is the best strategy." — same
+150. "I'm not, you know, I don't have a crystal ball on exactly where the low is going to be, but I do think gold is carving out that low and I think that in a year it's not really going to matter." — same
