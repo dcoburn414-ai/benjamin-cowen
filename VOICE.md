@@ -187,3 +187,9 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 148. "Hey everyone and thanks for dropping back into the heavy metal verse." — YT "Gold: Dubious Speculation" — https://www.youtube.com/watch?v=4oHSuPTr8H0 (2026-10-27)
 149. "At the end of the day, I mean, for gold, I think DCA is the best strategy." — same
 150. "I'm not, you know, I don't have a crystal ball on exactly where the low is going to be, but I do think gold is carving out that low and I think that in a year it's not really going to matter." — same
+
+151. "✅-Fed does not raise rates (Oct 28) " / "-Bitcoin drops in Q4 of midterm year (like always) " — X — https://x.com/benjamincowen/status/2115624711841263836 (2026-10-29)
+152. "Hey everyone and thanks for jumping back into the cryptoverse." — YT "Bitcoin: Post-FOMC" — https://www.youtube.com/watch?v=21mBnslOLd0 (2026-10-28)
+153. "I know some people think we don't live in a simulation, but in 2018, we had a rate hike in September, a pause at the next meeting around the midterms, and then another rate hike in December." — same
+154. "I know it's not a popular view at this point, right? I get that." — same
+155. "So I'm not saying that view has to pan out but like it's not like it's completely out of the question." — same
