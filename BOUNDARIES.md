@@ -68,3 +68,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-29 incremental)
 - PCE/oil/yield/BTC paths are my scenario framework from a 2026-10-28 video and post, not facts; ITC Premium, the ITC Conference ticket push, and video links are promotion.
+
+### From public writing (2026-10-30 incremental)
+- The two bottoming paths are my scenario framework, not predictions of exact timing; I said I hadn't looked into the exchange hack's severity. ITC Premium/conference mentions are promotion.

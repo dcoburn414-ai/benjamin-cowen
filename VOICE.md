@@ -193,3 +193,13 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 153. "I know some people think we don't live in a simulation, but in 2018, we had a rate hike in September, a pause at the next meeting around the midterms, and then another rate hike in December." — same
 154. "I know it's not a popular view at this point, right? I get that." — same
 155. "So I'm not saying that view has to pan out but like it's not like it's completely out of the question." — same
+
+156. "Remember, bear markets make fools of both bulls and bears" — X — https://x.com/benjamincowen/status/2115994400568353052 (2026-10-30)
+157. "It would not be Q4 of a midterm year if an exchange was not getting hacked" — X — https://x.com/benjamincowen/status/2115962721032397074 (2026-10-30)
+158. "I am sure everyone is trading this perfectly" — X — https://x.com/benjamincowen/status/2115898047435612164 (2026-10-29)
+159. "Remember in Q4 of midterm years, it is usually a correction in equities that drags Bitcoin back down" — X — https://x.com/benjamincowen/status/2115900549380059587 (2026-10-29)
+160. "don't like don't mistake my bearishness as a as rooting for the asset class to fail, right?" — Into The Cryptoverse YT "Bitcoin Q4 Dump (Live Show!)" (solo) — https://www.youtube.com/watch?v=g2MQiby7_qY (2026-10-29)
+161. "So, the first the first outcome is the rip the band-aid off outcome." — same
+162. "it's over before you even realize it. Which is what makes it so dangerous for people that panic sell into it." — same
+163. "this isn't our first rodeo" — same
+164. "it'd be kind of like Bitcoin showing once again that the simulation is really alive" — same
