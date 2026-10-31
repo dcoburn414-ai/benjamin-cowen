@@ -71,3 +71,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-10-30 incremental)
 - The two bottoming paths are my scenario framework, not predictions of exact timing; I said I hadn't looked into the exchange hack's severity. ITC Premium/conference mentions are promotion.
+
+### From public writing (2026-10-31 incremental)
+- The report's levels and analog dates are scenarios, not timing guarantees; the full report is gated and only its public summary was read. ITC Premium/conference mentions are promotion.

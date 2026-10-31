@@ -203,3 +203,14 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 162. "it's over before you even realize it. Which is what makes it so dangerous for people that panic sell into it." — same
 163. "this isn't our first rodeo" — same
 164. "it'd be kind of like Bitcoin showing once again that the simulation is really alive" — same
+
+165. "There is no one on this platform who has a crystal ball and knows with certainty what will happen" — X — https://x.com/benjamincowen/status/2116182841050439894 (2026-10-30)
+166. "usually the time to sell Bitcoin (if you are going to) is Q4 of post-halving years, not during the Q4 dump of midterm years." — X — https://x.com/benjamincowen/status/2116186882300109109 (2026-10-30)
+167. "I do not control the markets and sometimes I get things wrong." — X — https://x.com/benjamincowen/status/2116184507460047136 (2026-10-30)
+168. "I can say it in Chinese if that will help" — X — https://x.com/benjamincowen/status/2116187526712959465 (2026-10-30)
+169. "tomorrow is Halloween. have better things to do that look at the markets." — X — https://x.com/benjamincowen/status/2116226459731988825 (2026-10-30)
+170. "I keep trying to write the monthly report, but then everyday the markets keep dropping so then I have to back and update everything 😅" — X — https://x.com/benjamincowen/status/2116221352910987723 (2026-10-30)
+171. "Markets lead and then narrative follows." — Into The Cryptoverse YT "Bitcoin: The Q4 Dump is Here" (solo) — https://www.youtube.com/watch?v=bekghgecip8 (2026-10-30)
+172. "we always want to assume that this time is different. And then what if it's not?" — same
+173. "once again, everyone tried to over complicate it, but yet it still ended up happening anyways." — same
+174. "the name of the game in midterm years is to often try to just preserve what you have." — same
