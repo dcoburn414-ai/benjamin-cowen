@@ -214,3 +214,11 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 172. "we always want to assume that this time is different. And then what if it's not?" — same
 173. "once again, everyone tried to over complicate it, but yet it still ended up happening anyways." — same
 174. "the name of the game in midterm years is to often try to just preserve what you have." — same
+
+175. "yes, but people love dunking on me anyways." — X — https://x.com/benjamincowen/status/2116742243126219119 (2026-11-01)
+176. "with the exception of underestimated the extent of the Q3 rally." — X — https://x.com/benjamincowen/status/2116742243126219119 (2026-11-01)
+177. "So, I feel like I was scrambling on the breakout and now you have those guys scrambling on the breakdown." — Into The Cryptoverse YT "Bitcoin: Dooobious Spookulation" (solo) — https://www.youtube.com/watch?v=VWU9sgbvnzw (2026-10-31)
+178. "I know I'm going to be wrong. You know, I'm going to be wrong. Let's all be on the same page. So, when I'm wrong, might as well say I'm wrong." — same
+179. "trade the market you have, not the market you want." — same
+180. "But I don't always get what I want. In fact, frequently I don't get what I want." — same
+181. "It's scary, but it's Halloween, right?" — same
