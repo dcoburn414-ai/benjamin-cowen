@@ -77,3 +77,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-11-01 incremental)
 - Silver-as-BTC-lead and the rate-hike analogs are my speculative, small-sample framing (the video is titled 'dubious spookulation'), not a forecast; ITC conference/ticket and ITC Premium mentions promote my own company.
+
+### From public writing (2026-11-02 incremental)
+- The 10-trillion long-term call and the post-midterm BMSB guess are my framing, not a forecast; ITC conference and macro risk memo mentions promote my own company.

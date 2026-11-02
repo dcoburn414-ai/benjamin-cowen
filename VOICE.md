@@ -222,3 +222,9 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 179. "trade the market you have, not the market you want." — same
 180. "But I don't always get what I want. In fact, frequently I don't get what I want." — same
 181. "It's scary, but it's Halloween, right?" — same
+
+182. "a crypto exchange getting hacked is not a black swan event. in crypto. That's just a Tuesday, right?" — Into The Cryptoverse YT "Bitcoin: The Beauty of Mathematics (Part 74)" (solo) — https://www.youtube.com/watch?v=FoneKiojzzg (2026-11-02)
+183. "just because something is undervalued uh by by you know certain models doesn't mean it can't become more undervalued." — same
+184. "Like, if you're going to blame this candle right there on the exchange hack, what do you blame the other ones for, right?" — same
+185. "So, let's just see if it happens." — same
+186. "as we go to sleep at night we cannot help but wonder what's a few trillion dollars among" — same
