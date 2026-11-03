@@ -228,3 +228,10 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 184. "Like, if you're going to blame this candle right there on the exchange hack, what do you blame the other ones for, right?" — same
 185. "So, let's just see if it happens." — same
 186. "as we go to sleep at night we cannot help but wonder what's a few trillion dollars among" — same
+
+187. "Drew out the path for #SPX 4 months ago." / "Literally happened 4 midterm years in a row." — X — https://x.com/benjamincowen/status/2117356864669147637 (2026-11-02)
+188. "Bitcoin looks to be in the process of dumping into its Q4 low." / "This time does not look different." — X — https://x.com/benjamincowen/status/2117355708093997256 (2026-11-02)
+189. "regardless of all the narratives, the Q4 correction arrived just the same" — Into The Cryptoverse YT "Stock Market Correction: Q4 2026" (solo) — https://www.youtube.com/watch?v=BBgxp2SvLuU (2026-11-02)
+190. "oh, everyone's expecting it, therefore it won't happen. And yet it happens anyways" — same
+191. "I speculate dubiously of course that we'll likely see oil continue to head back up perhaps after the midterms" — same
+192. "I know at times it seemed like it would not happen, but yet it arrived just the same" — same

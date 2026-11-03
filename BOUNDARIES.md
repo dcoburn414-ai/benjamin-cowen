@@ -80,3 +80,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-11-02 incremental)
 - The 10-trillion long-term call and the post-midterm BMSB guess are my framing, not a forecast; ITC conference and macro risk memo mentions promote my own company.
+
+### From public writing (2026-11-03 incremental)
+- The 7,300 / 200-day target, OpenAI-IPO timing and oil-after-midterms are my speculation, not forecasts; ITC conference mentions promote my own company.
