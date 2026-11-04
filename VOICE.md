@@ -235,3 +235,9 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 190. "oh, everyone's expecting it, therefore it won't happen. And yet it happens anyways" — same
 191. "I speculate dubiously of course that we'll likely see oil continue to head back up perhaps after the midterms" — same
 192. "I know at times it seemed like it would not happen, but yet it arrived just the same" — same
+
+193. "again this is not a political video, right? I'm not trying to push any specific politics on anyone." — Into The Cryptoverse YT "The United States Midterms and Markets" (solo) — https://www.youtube.com/watch?v=krNe11F52PI (2026-11-03)
+194. "please don't get mad at me for data. I don't control the data, right? I'm just telling you what it is." — same
+195. "Like no one really knows what's going to happen. It's all just based on on probabilities, you know?" — same
+196. "we're kind of in a market now where everyone is just like obsessed with every $5,000 move by the price of Bitcoin." — same
+197. "markets generally do not like uncertainty." — same
