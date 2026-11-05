@@ -168,3 +168,6 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 ### From public writing (2026-11-04 incremental)
 - Midterms and markets (YT 2026-11-03, data not politics): since 1953 the worst regime for S&P annualized returns has been a Republican president with a full Democratic Congress (~4.9% average, ~4% median — still positive, not a guaranteed crash); the best has been a Democratic president with a full Republican Congress (~20% median); sweeps either way have historically been fine. Prediction markets favor a Democratic House and Senate, but I won't predict the outcome — polls are like predicting the weather or the markets, it's all probabilities. Markets don't like uncertainty.
 - S&P under Trump's second term is tracking his first term almost exactly (~26% vs ~20% at the same point); Bitcoin returns in the Biden/Trump-2 cycles are far weaker than in the Obama-2/Trump-1 cycles, which I attribute partly to post-2020/21 macro (inflation, labor market). If it rhymes with Biden's term, expect BTC to start moving back up more in 2027 (YT 2026-11-03).
+
+### From public writing (2026-11-05 incremental)
+- Post-midterms (X 2026-11-04): 'Trump was certainly on the ballot last night.' Fair-weather crypto supporters 'were never pro-crypto — they were just pro-getting-rich-off-crypto.'

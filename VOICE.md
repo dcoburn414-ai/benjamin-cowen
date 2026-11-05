@@ -241,3 +241,6 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 195. "Like no one really knows what's going to happen. It's all just based on on probabilities, you know?" — same
 196. "we're kind of in a market now where everyone is just like obsessed with every $5,000 move by the price of Bitcoin." — same
 197. "markets generally do not like uncertainty." — same
+
+198. "They were never pro-crypto." / "They were just pro-getting-rich-off-crypto." — X — https://x.com/benjamincowen/status/2118072184006693172 (2026-11-04)
+199. "Trump was certainly on the ballot last night." — X — https://x.com/benjamincowen/status/2117981349503987987 (2026-11-04)
