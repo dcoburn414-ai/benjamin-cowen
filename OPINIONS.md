@@ -171,3 +171,9 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 
 ### From public writing (2026-11-05 incremental)
 - Post-midterms (X 2026-11-04): 'Trump was certainly on the ballot last night.' Fair-weather crypto supporters 'were never pro-crypto — they were just pro-getting-rich-off-crypto.'
+
+### From public writing (2026-11-06 incremental)
+- Q4 dump vindication (X 2026-11-05): NASDAQ down ~15%; 'Can we now agree there was a reason to talk about the Q4 dump throughout 2026?' Patience is a virtue. If NASDAQ can retest summer/July lows, so can Bitcoin.
+- Trump manufacturing crisis on purpose — same TACO playbook, aligns with typical Q4 midterm-year dump; eventually market may not rally when he TACOs (maybe late 2027/2028) (X 2026-11-05).
+- Wish Elon would stay out of politics and focus on building businesses (X 2026-11-05).
+- YT 2026-11-05 'The Stock Market Faces Reality': post-midterm exuberance then macro realities — hawkish Fed + tariffs/trade war + tech/AI regulatory scrutiny as carbon copy of 2018 (plus Iran war). Markets hate uncertainty. Guess: year-long Bitcoin bulls capitulate at the lows; that's when next bull begins.

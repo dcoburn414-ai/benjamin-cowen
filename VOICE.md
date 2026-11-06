@@ -244,3 +244,15 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 
 198. "They were never pro-crypto." / "They were just pro-getting-rich-off-crypto." — X — https://x.com/benjamincowen/status/2118072184006693172 (2026-11-04)
 199. "Trump was certainly on the ballot last night." — X — https://x.com/benjamincowen/status/2117981349503987987 (2026-11-04)
+
+200. "Can we now agree that there was a reason to talk about the Q4 dump throughout 2026?" / "Patience is a virtue." — X — https://x.com/benjamincowen/status/2118407481781272859 (2026-11-05)
+201. "If the NASDAQ can go back to the summer lows, then so can Bitcoin." — X — https://x.com/benjamincowen/status/2118364340122182125 (2026-11-05)
+202. "I wish Elon Musk would just stay out of politics and focus on what he is good at which is building businesses." — X — https://x.com/benjamincowen/status/2118369774438875436 (2026-11-05)
+203. "Like I said, he is manufacturing a crisis on purpose." / "It's literally the same playbook he has done probably a dozen times at this point, and this one aligns with the typical Q4 midterm year dump." — X — https://x.com/benjamincowen/status/2118488455575474370 (2026-11-05)
+204. "Instead of directing hate towards me for having a different opinion than you, try and turn that into something constructive." / "Don't waste your life mocking others who disagree with you." — X — https://x.com/benjamincowen/status/2118420743038042187 (2026-11-05)
+205. "The NASDAQ has already given back all of its post-midterm gains" / "Similar thing happened in 2018." / "History does not always repeat itself, but it does often rhyme." — X — https://x.com/benjamincowen/status/2118357024245264556 (2026-11-05)
+206. "If the NASDAQ can test the July low, ask yourself, why can't Bitcoin?" — YT "The Stock Market Faces Reality" — https://www.youtube.com/watch?v=aYrDQOrtY3A (2026-11-05)
+207. "carbon copy of 2018" — same
+208. "markets in general do not like uncertainty" — same
+209. "My guess is that the people that have been so bullish on Bitcoin the entire year" / "will be the ones that actually end up capitulating the lows" — same
+210. "the markets just continue to give me every reason to believe that it is playing out" — same
