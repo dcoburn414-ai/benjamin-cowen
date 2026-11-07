@@ -256,3 +256,15 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 208. "markets in general do not like uncertainty" — same
 209. "My guess is that the people that have been so bullish on Bitcoin the entire year" / "will be the ones that actually end up capitulating the lows" — same
 210. "the markets just continue to give me every reason to believe that it is playing out" — same
+
+211. "Has anyone noticed the pattern with Bitcoin/stocks?" / "Perhaps the time to pivot is after this pattern breaks?" — X — https://x.com/benjamincowen/status/2118717822264385745 (2026-11-06)
+212. "I think you have tweeted this out probably two dozen times this year." / "The boy who cried wolf in real life" — X — https://x.com/benjamincowen/status/2118699467960389703 (2026-11-06)
+213. "Also seems kind of silly to assume that those who are bearish just turned bearish at $75k. Maybe you are late to the party?" — X — https://x.com/benjamincowen/status/2118753157723398482 (2026-11-06)
+214. "I said I was wrong about the rally not taking out the May high, not about the Q4 dump." — X — https://x.com/benjamincowen/status/2118756341963469246 (2026-11-06)
+215. "the goal of midterm years is just to survive" — YT "Bitcoin: The Bears Strike Back" — https://www.youtube.com/watch?v=szWg0zCAbF0 (2026-11-06)
+216. "any good analyst should be able to do is to actually understand the other position" — same
+217. "crypto exchanges going down is just a Tuesday" — same
+218. "Bitcoin historically has been allergic to the fourth quarter of midterm years" — same
+219. "Once you see it, you cannot unsee it. So, if you don't want to see it, end the video now. I'm just here to tell you what I see." — same
+220. "I feel like there's more people saying everyone expects it than there are people actually expecting it." — same
+221. "So, am I without fault? Absolutely not." — same

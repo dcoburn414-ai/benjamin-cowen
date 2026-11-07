@@ -177,3 +177,8 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Trump manufacturing crisis on purpose — same TACO playbook, aligns with typical Q4 midterm-year dump; eventually market may not rally when he TACOs (maybe late 2027/2028) (X 2026-11-05).
 - Wish Elon would stay out of politics and focus on building businesses (X 2026-11-05).
 - YT 2026-11-05 'The Stock Market Faces Reality': post-midterm exuberance then macro realities — hawkish Fed + tariffs/trade war + tech/AI regulatory scrutiny as carbon copy of 2018 (plus Iran war). Markets hate uncertainty. Guess: year-long Bitcoin bulls capitulate at the lows; that's when next bull begins.
+
+### From public writing (2026-11-07 incremental)
+- Weekly pattern (X 2026-11-06): dump into Thu/Fri → bears call Black Monday → rally Mon–Wed → bulls mock bears → repeat; pivot only after the pattern breaks.
+- Owns the miss precisely: wrong that the rally would not take out the May high, not wrong on the Q4 dump (X 2026-11-06 replies). Short-term map: sweep of lows at $74.9k, bounce into weekend, another drop next week.
+- YT 2026-11-06 'Bitcoin: The Bears Strike Back': goal of a midterm year is to survive — have a plan before it starts and stick to it. Understands the bull case (50W breakout vs 2019/2023, 200W touch) but no capitulation volume wall yet; BTC/NASDAQ/gold/silver/Korea all show Q1–summer–Q4 lows cadence; stablecoin market cap below Feb & July lows. Administration wants looser policy → manufactures drops. If $74.9k gives, likely straight to range lows/200W. 2026 a 'worse 2018' (+ Iran war, AI regulation); credit-spread spike then calm, recession later in term.
