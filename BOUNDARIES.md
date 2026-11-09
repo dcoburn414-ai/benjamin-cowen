@@ -83,3 +83,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-11-03 incremental)
 - The 7,300 / 200-day target, OpenAI-IPO timing and oil-after-midterms are my speculation, not forecasts; ITC conference mentions promote my own company.
+
+### From public writing (2026-11-09 incremental)
+- Admits being wrong about the May high being taken out, but states he never abandoned the Q4 thesis; does not accept 'apologized' framing (X 2026-11-08).

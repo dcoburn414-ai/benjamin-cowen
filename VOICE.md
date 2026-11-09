@@ -268,3 +268,16 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 219. "Once you see it, you cannot unsee it. So, if you don't want to see it, end the video now. I'm just here to tell you what I see." — same
 220. "I feel like there's more people saying everyone expects it than there are people actually expecting it." — same
 221. "So, am I without fault? Absolutely not." — same
+
+222. "Throughout 2026, I have said that the reason for Bitcoin to drop in Q4 is due to a correction in equities." / "People can mock these ideas (and they have), but it does not stop the events from happening all the same." — X — https://x.com/benjamincowen/status/2119628774459240813 (2026-11-09)
+223. "Turns out I was being optimistic" — X — https://x.com/benjamincowen/status/2119601755784675547 (2026-11-09)
+224. "People just could not accept that ADA would bleed" — X — https://x.com/benjamincowen/status/2119634282889028066 (2026-11-09)
+225. "Being directionally correct is what matters." — X — https://x.com/benjamincowen/status/2119640641508413479 (2026-11-09)
+226. "I think Bitcoin will stay weak probably into mid-December around next FOMC." — X — https://x.com/benjamincowen/status/2119635209620697515 (2026-11-09)
+227. "How is cheating on his wife not bad intentions?" — X — https://x.com/benjamincowen/status/2119648206569255165 (2026-11-09)
+228. "my guess is that Bitcoin will lose the bull market support band" — YT "Bitcoin Falls to the Bull Market Support Band" — https://www.youtube.com/watch?v=0AGXzdZNwq0 (2026-11-09)
+229. "I don't control the rules." — same
+230. "that's just not the regime that we're in" — same
+231. "your own strategy that you're kind of coming up with because you're getting spooked by daily moves in the market" — same
+232. "this is just nothing more than a fake out to convince people that this time is different" — same
+233. "I'm just trying to communicate to you guys the most likely outcome." — same

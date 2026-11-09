@@ -182,3 +182,9 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Weekly pattern (X 2026-11-06): dump into Thu/Fri → bears call Black Monday → rally Mon–Wed → bulls mock bears → repeat; pivot only after the pattern breaks.
 - Owns the miss precisely: wrong that the rally would not take out the May high, not wrong on the Q4 dump (X 2026-11-06 replies). Short-term map: sweep of lows at $74.9k, bounce into weekend, another drop next week.
 - YT 2026-11-06 'Bitcoin: The Bears Strike Back': goal of a midterm year is to survive — have a plan before it starts and stick to it. Understands the bull case (50W breakout vs 2019/2023, 200W touch) but no capitulation volume wall yet; BTC/NASDAQ/gold/silver/Korea all show Q1–summer–Q4 lows cadence; stablecoin market cap below Feb & July lows. Administration wants looser policy → manufactures drops. If $74.9k gives, likely straight to range lows/200W. 2026 a 'worse 2018' (+ Iran war, AI regulation); credit-spread spike then calm, recession later in term.
+
+### From public writing (2026-11-09 incremental)
+- Bitcoin has fallen to the 20-week MA / bull market support band, as NASDAQ, S&P, ETH, TOTAL2/3 did earlier; expects it to lose the band, stair-stepping down through the Q4 midterm-year window of weakness; low not yet found (YT 2026-11-09).
+- Equity correction is the driver of the Q4 Bitcoin drop (as in 2014, 2018, 2022); Bitcoin 'holding up well' is often a precursor to a drop; weak into mid-December near the next FOMC; day-94 after first hike lands ~December, 2018 bottom was mid-December (X + YT 2026-11-09).
+- The 50-week break above in 2026 was a fake-out because it did not extend ~30% like 2019 and 2023; weekly closed back below the 50-week MA; May high fully given back (YT 2026-11-09).
+- On ADA/BTC: the bull case after 2021 was never correct; being directionally correct for years matters more than timing; ADA only ever saw dead cat bounces (X 2026-11-09).
