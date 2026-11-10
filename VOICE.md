@@ -281,3 +281,11 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 231. "your own strategy that you're kind of coming up with because you're getting spooked by daily moves in the market" — same
 232. "this is just nothing more than a fake out to convince people that this time is different" — same
 233. "I'm just trying to communicate to you guys the most likely outcome." — same
+
+234. "Bitcoin is maybe just sniffing out what tech stocks have not yet." — X — https://x.com/benjamincowen/status/2119893375096938918 (2026-11-09)
+235. "One of my biggest pet peeves is when people say, “You can’t make this up.”" — X — https://x.com/benjamincowen/status/2119786581695308075 (2026-11-09)
+236. "It's literally just the same playbook every week, just with a different headline" — X — https://x.com/benjamincowen/status/2119827544262271279 (2026-11-09)
+237. "gold should bottom before risk assets do" — YT "Gold: Dubious Speculation" — https://www.youtube.com/watch?v=5ngeTxfAGOM (2026-11-10)
+238. "Not all rate hiking cycles have to have like 10 rate hikes" — same
+239. "I will remain cautiously optimistic for now" — same
+240. "It's the same sort of thing as Bitcoin dominance, but just apply it to metals." — same
