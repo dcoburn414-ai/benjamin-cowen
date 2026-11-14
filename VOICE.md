@@ -289,3 +289,28 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 238. "Not all rate hiking cycles have to have like 10 rate hikes" — same
 239. "I will remain cautiously optimistic for now" — same
 240. "It's the same sort of thing as Bitcoin dominance, but just apply it to metals." — same
+
+241. "Bitcoin dominance will likely continue higher, as tighter monetary policy is coming." — X — https://x.com/benjamincowen/status/2120318002688081971 (2026-11-11)
+
+### From public writing (2026-11-12 incremental)
+242. "Perhaps the reason Bitcoin is falling (if you need one) is due to the upcoming Anthropic IPO." — X — https://x.com/benjamincowen/status/2120525821073129656 (2026-11-11)
+243. "Investors will often try to free up capital for major IPOs." — X — https://x.com/benjamincowen/status/2120525821073129656 (2026-11-11)
+244. "Bitcoin is a cryptocurrency." — X — https://x.com/benjamincowen/status/2120539188869153185 (2026-11-11)
+245. "In the video I said it would surge into EOY like 2018, and follow the path from Trump's 1st term." — X — https://x.com/benjamincowen/status/2120615873014575152 (2026-11-11)
+246. "Maybe the reason is because people are more excited about AI than crypto these days?" — X — https://x.com/benjamincowen/status/2120526601050013971 (2026-11-11)
+
+### From public writing (2026-11-13 incremental)
+247. "Bear markets make fools of both bulls and bears" — X — https://x.com/benjamincowen/status/2121088965956837439 (2026-11-13)
+248. "Bitcoin is allergic to Q4 of midterm years" — X — https://x.com/benjamincowen/status/2120869758791000479 (2026-11-12)
+249. "Don't mistake me being bearish now as being bearish always." — X — https://x.com/benjamincowen/status/2120952315007959390 (2026-11-12)
+250. "Not right about everything - I did not expect Bitcoin to rally above the May high." — X — https://x.com/benjamincowen/status/2121092116361195715 (2026-11-13)
+251. "Bitcoin dumped in Q4 just the same" — YT "Bitcoin Q4 Dump Came Just the Same" — https://www.youtube.com/watch?v=QcJlPjcOZjw (2026-11-12)
+252. "Guys, this isn't 2019 yet. It's not 2023." — same
+253. "when you have an apathetic top like 2019 and 2025, you are more prone to having fake out moves" — YT "Bitcoin Falls Below the 50W Moving Average" — https://www.youtube.com/watch?v=j-JVi02_C88 (2026-11-11)
+
+254. "Bitcoin has historically capitulated into its cycle low sometime after the US midterms" — X — https://x.com/benjamincowen/status/2121463045360881676 (2026-11-14)
+255. "You can like an asset long-term but appreciate certain risks that can take it lower in the short-term." / "There should not be so much hatred directed at those that call for lower prices." — X — https://x.com/benjamincowen/status/2121458635419140334 (2026-11-14)
+256. "Cycles are gonna cycle" — X — https://x.com/benjamincowen/status/2121447044200165378 (2026-11-14)
+257. "I said I was wrong about the May high, you just can’t read" — X — https://x.com/benjamincowen/status/2121384614619193592 (2026-11-13)
+258. "hopefully you can now appreciate why some caution was warranted." — X — https://x.com/benjamincowen/status/2121376127243735149 (2026-11-13)
+259. "Imagine if Bitcoin bottoms during the ITC conference" — X — https://x.com/benjamincowen/status/2121273822108176618 (2026-11-13)

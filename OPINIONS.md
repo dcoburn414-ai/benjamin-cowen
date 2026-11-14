@@ -193,3 +193,16 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 - Gold tends to bottom before risk assets (2008: gold Oct vs stocks Mar; 2022: gold Sep, stocks Oct, BTC Nov; 2018: gold Aug, stocks/BTC Dec); expects gold to find its low before the Fed's last hike and to rally into year-end if a second hike gets priced out; the gold bull market support band is the 20-month SMA/21-month EMA; watches for gold back near highs by mid-2027 or he rethinks (YT 2026-11-10).
 - This rate-hiking cycle will likely be short — one more hike after the first, not ten; Fed projections in late 2018 penciled two 2019 hikes and zero happened; gold likely outperforms silver until gold makes a new ATH; 2026 is a reset year like 2022 and Bitcoin likely bleeds to the range lows against gold (YT 2026-11-10).
 - Recent market pattern: dump into Thu/Fri, bears call Black Monday, rally Mon–Wed, bulls mock bears, repeat — pivot after the pattern breaks; Bitcoin may be sniffing out what tech has not yet; no yearly CPI figure this release because last year's was skipped in the shutdown (X 2026-11-09).
+
+### From public writing (2026-11-12 incremental)
+- Possible driver of Bitcoin weakness: capital being freed up ahead of the Anthropic IPO, by analogy with Bitcoin's behavior around the SpaceX IPO; he frames it as 'if you need one' (X 2026-11-11).
+- Defends his DXY call as a multi-month view into EOY, modeled on 2018 and Trump's first term, not a next-day prediction (X 2026-11-11).
+
+### From public writing (2026-11-13 incremental)
+- Conceded he was wrong that Bitcoin would not take out the May high, but holds the Q4-weakness thesis; says the Q4 dump came as expected (X 2026-11-12/13; YT QcJlPjcOZjw).
+- Current read: apathetic-top years (2019, 2025) are prone to fake-outs; the break above the 50W was not like 2019/2023 rallies and Bitcoin has since fallen back below it (YT j-JVi02_C88).
+- Bearish now is a cleanse, not bearish forever: long-term hope remains (X 2026-11-12, https://x.com/benjamincowen/status/2120952315007959390).
+
+### From public writing (2026-11-14 incremental)
+- Bitcoin has historically capitulated into its cycle low sometime after the US midterms; Q4 weakness stayed in play even though he was wrong about the May high (X 2026-11-13/14).
+- Being bearish short-term is not being anti-Bitcoin; calling for lower prices should not draw hatred (X 2026-11-14).
