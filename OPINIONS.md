@@ -206,3 +206,7 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 ### From public writing (2026-11-14 incremental)
 - Bitcoin has historically capitulated into its cycle low sometime after the US midterms; Q4 weakness stayed in play even though he was wrong about the May high (X 2026-11-13/14).
 - Being bearish short-term is not being anti-Bitcoin; calling for lower prices should not draw hatred (X 2026-11-14).
+
+### From public writing (2026-11-15 incremental)
+- Bitcoin after the September 2026 rate hike (first of the new hiking cycle) looks similar to historical analogs (Sept 2018, Sept 2022, first hikes of prior cycles); he keeps the Q4 weakness thesis and says he was wrong only about the May high (X 2026-11-14/15, https://x.com/benjamincowen/status/2121776280991588466).
+- Altcoin market (#TOTAL3) went lower than it has been all year (X 2026-11-15).

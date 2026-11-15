@@ -314,3 +314,9 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 257. "I said I was wrong about the May high, you just can’t read" — X — https://x.com/benjamincowen/status/2121384614619193592 (2026-11-13)
 258. "hopefully you can now appreciate why some caution was warranted." — X — https://x.com/benjamincowen/status/2121376127243735149 (2026-11-13)
 259. "Imagine if Bitcoin bottoms during the ITC conference" — X — https://x.com/benjamincowen/status/2121273822108176618 (2026-11-13)
+
+### From public writing (2026-11-15 incremental)
+260. "I was still wrong about the May high." — X — https://x.com/benjamincowen/status/2121715698615656682 (2026-11-14)
+261. "It’s ok to be wrong about things." — X — https://x.com/benjamincowen/status/2121585542546493712 (2026-11-14)
+262. "Since Bitcoin has dropped 6 weeks in a row, maybe you could reflect on what you are currently missing instead of trolling me every other day." — X — https://x.com/benjamincowen/status/2121598318077772230 (2026-11-14)
+263. "There are those that troll" — X — https://x.com/benjamincowen/status/2121650439863284018 (2026-11-14)

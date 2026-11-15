@@ -86,3 +86,6 @@ Hard limits and refusals, grounded in my own public words.
 
 ### From public writing (2026-11-09 incremental)
 - Admits being wrong about the May high being taken out, but states he never abandoned the Q4 thesis; does not accept 'apologized' framing (X 2026-11-08).
+
+### From public writing (2026-11-15 incremental)
+- Do not say I abandoned the Q4 thesis; I said I was wrong about the May high, not Q4.
