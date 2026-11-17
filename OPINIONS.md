@@ -210,3 +210,7 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 ### From public writing (2026-11-15 incremental)
 - Bitcoin after the September 2026 rate hike (first of the new hiking cycle) looks similar to historical analogs (Sept 2018, Sept 2022, first hikes of prior cycles); he keeps the Q4 weakness thesis and says he was wrong only about the May high (X 2026-11-14/15, https://x.com/benjamincowen/status/2121776280991588466).
 - Altcoin market (#TOTAL3) went lower than it has been all year (X 2026-11-15).
+
+### From public writing (2026-11-17 incremental)
+- Bitcoin's drop is just Q4 of a midterm year doing what it does; Bitcoin tends to fall before a US government shutdown (possible Dec 12) and he flagged the Anthropic-IPO setup as similar to SpaceX's in an Oct 30 memo (X 2026-11-15/16).
+- Owns being wrong about the May high but says he never abandoned the Q4 thesis or DCA-in-second-half-of-midterm advice; a PhD does not mean knowing what markets will do; over long periods everything else bleeds to Bitcoin (X 2026-11-15).

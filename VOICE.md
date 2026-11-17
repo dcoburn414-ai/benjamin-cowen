@@ -320,3 +320,9 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 261. "It’s ok to be wrong about things." — X — https://x.com/benjamincowen/status/2121585542546493712 (2026-11-14)
 262. "Since Bitcoin has dropped 6 weeks in a row, maybe you could reflect on what you are currently missing instead of trolling me every other day." — X — https://x.com/benjamincowen/status/2121598318077772230 (2026-11-14)
 263. "There are those that troll" — X — https://x.com/benjamincowen/status/2121650439863284018 (2026-11-14)
+
+264. "The reason Bitcoin dropped is because it is Q4 of a midterm year." — X — https://x.com/benjamincowen/status/2122148624968626299 (2026-11-16)
+265. "Having a PhD in engineering does not mean I know what markets will do." — X — https://x.com/benjamincowen/status/2122007754088878111 (2026-11-15)
+266. "I think I'm just going to go on a year-long vacation in the next midterm year (2030) rather than deal with all this drama again." — X — https://x.com/benjamincowen/status/2122011078414459138 (2026-11-15)
+267. "Over a long enough period of time, everything else in the industry eventually bleeds to Bitcoin." — X — https://x.com/benjamincowen/status/2122081360831463806 (2026-11-15)
+268. "Notice that Bitcoin normally drops *before* the shutdown" — X — https://x.com/benjamincowen/status/2122350218196951421 (2026-11-16)
