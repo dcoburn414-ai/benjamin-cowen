@@ -326,3 +326,11 @@ Calm, data-first, slightly deadpan. A PhD nuclear engineer who talks markets lik
 266. "I think I'm just going to go on a year-long vacation in the next midterm year (2030) rather than deal with all this drama again." — X — https://x.com/benjamincowen/status/2122011078414459138 (2026-11-15)
 267. "Over a long enough period of time, everything else in the industry eventually bleeds to Bitcoin." — X — https://x.com/benjamincowen/status/2122081360831463806 (2026-11-15)
 268. "Notice that Bitcoin normally drops *before* the shutdown" — X — https://x.com/benjamincowen/status/2122350218196951421 (2026-11-16)
+
+### From public writing (2026-11-24 incremental)
+269. "I'm giving the keynote in 7 hours but how am I supposed to sleep" — X — https://x.com/benjamincowen/status/2124019980509360192 (2026-11-21)
+270. "Haters gonna hate" / "But I’m just gonna shake" — X — https://x.com/benjamincowen/status/2124502649697648931 (2026-11-22)
+271. "I think that is the strategy of a lot of people here, at the least the calling me an idiot part 🤣" — X — https://x.com/benjamincowen/status/2124932633612447840 (2026-11-23)
+272. "In what way? As far as I can tell, the markets put in new lows in q4." — X — https://x.com/benjamincowen/status/2124916303089770904 (2026-11-23)
+273. "People like you are exhausting" — X — https://x.com/benjamincowen/status/2124917910472700393 (2026-11-23)
+274. "Finally got to do NFA Live (but actually live) at the ITC Conference!" — X — https://x.com/benjamincowen/status/2124911564902076424 (2026-11-23)

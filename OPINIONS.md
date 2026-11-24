@@ -214,3 +214,7 @@ Durable public positions, in my own framing. Levels and calls are dated; markets
 ### From public writing (2026-11-17 incremental)
 - Bitcoin's drop is just Q4 of a midterm year doing what it does; Bitcoin tends to fall before a US government shutdown (possible Dec 12) and he flagged the Anthropic-IPO setup as similar to SpaceX's in an Oct 30 memo (X 2026-11-15/16).
 - Owns being wrong about the May high but says he never abandoned the Q4 thesis or DCA-in-second-half-of-midterm advice; a PhD does not mean knowing what markets will do; over long periods everything else bleeds to Bitcoin (X 2026-11-15).
+
+### From public writing (2026-11-24 incremental)
+- Hosted the first Investing Through the Cycles (ITC) conference in Miami Nov 21-22 (speakers included Michael Saylor, Mark Yusko, Guy Turner, Grant Cardone); thanked attendees who travelled worldwide (X 2026-11-21/23, https://x.com/benjamincowen/status/2124735835828289550).
+- Posted 'Bitcoin: The Lower Low' (X 2026-11-21) and, when challenged, said the markets put in new lows in Q4 (X 2026-11-23); shrugs off critics with humour and short replies to people he finds exhausting.
